@@ -128,15 +128,6 @@ Here’s a glimpse of the portfolio:
 ![Education](./public/assets/education.png)
 ![Contact us](./public/assets/contact.png)
 
-
-
-
-## Customization 🖌️
-
-- **Personalize the content**: Change text, links, and images to make it yours.
-- **Update Skills and Projects**: Add your latest work and update skillsets.
-- **CSS Styles**: Tweak the design in the `style.css` to fit your style.
-
 ## Contributing 🤝
 
 Contributions are welcome! If you’d like to improve this project or add features, feel free to:
