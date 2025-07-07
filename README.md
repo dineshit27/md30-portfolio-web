@@ -117,16 +117,16 @@ This portfolio is built with the following technologies:
 
 Here’s a glimpse of the portfolio:
 
-![Home Screenshot](./public/assets/portfolio.png)
-![About](./public/assets/about.png)
-![Skills](./public/assets/skill.png)
-![Projects](./public/assets/project.png)
-![GitHub](./public/assets/github.png)
-![LeetCode](./public/assets/leetcode.png)
-![Badges](./public/assets/badge.png)
-![Experiences](./public/assets/experience.png)
-![Education](./public/assets/education.png)
-![Contact us](./public/assets/contact.png)
+![Home Screenshot](assets/portfolio.png)
+![About](assets/about.png)
+![Skills](assets/skill.png)
+![Projects](assets/project.png)
+![GitHub](assets/github.png)
+![LeetCode](assets/leetcode.png)
+![Badges](assets/badge.png)
+![Experiences](assets/experience.png)
+![Education](assets/education.png)
+![Contact us](assets/contact.png)
 
 ## Contributing 🤝
 
