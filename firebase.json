@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "m-dinesh-30",
-    "public": "dist",
+    "public": "Portfolio/dist",
     "ignore": [
       "firebase.json",
       "**/.*",
