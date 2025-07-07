@@ -118,15 +118,35 @@ This portfolio is built with the following technologies:
 Here’s a glimpse of the portfolio:
 
 ![Home Screenshot](assets/portfolio.png)
+
+---
 ![About](assets/about.png)
+
+---
 ![Skills](assets/skill.png)
+
+---
 ![Projects](assets/project.png)
+
+---
 ![GitHub](assets/github.png)
+
+---
 ![LeetCode](assets/leetcode.png)
+
+---
 ![Badges](assets/badge.png)
+
+---
 ![Experiences](assets/experience.png)
+
+---
 ![Education](assets/education.png)
+
+---
 ![Contact us](assets/contact.png)
+
+---
 
 ## Contributing 🤝
 
