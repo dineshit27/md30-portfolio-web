@@ -73,7 +73,6 @@ This portfolio is built with the following technologies:
         ├── components/
         │   ├── About.tsx
         │   ├── Badges.tsx
-        │   ├── Blogs.tsx
         │   ├── Certifications.tsx
         │   ├── Contact.tsx
         │   ├── Education.tsx
@@ -166,9 +165,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Let’s connect:
 
-[![Gmail](https://img.shields.io/badge/Contact%20me-Gmail-red)](mailto:m.dinesh.it27@gmail.com)
+[![m.dinesh.it27@gmail.com](https://img.shields.io/badge/Contact%20me-m.dinesh.it27@gmail.com-red)](mailto:m.dinesh.it27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh.M-blue)](https://www.linkedin.com/in/m-dinesh-d30/)
-[![Instagram](https://img.shields.io/badge/Instagram-DINESH-darkpink)](https://www.instagram.com/_dinx_pvt_430)
+[![Instagram](https://img.shields.io/badge/Instagram-dinx_pvt_430-darkpink)](https://www.instagram.com/_dinx_pvt_430)
 [![GitHub](https://img.shields.io/badge/GitHub-dineshit27-yellow)](https://github.com/dineshit27)
 
 Thanks for stopping by! 👋
